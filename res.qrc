@@ -1,0 +1,7 @@
+<RCC>
+    <qresource prefix="/">
+        <file>res/mainui_background.jpg</file>
+        <file>res/dialog_background.jpg</file>
+        <file>res/login_background2.png</file>
+    </qresource>
+</RCC>
